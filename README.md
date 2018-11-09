@@ -1,6 +1,6 @@
 # gosh
 
-Run $GOBIN/* easily without exporting $GOBIN, $GOPATH.
+Run $GOBIN/* easily even without $GOBIN and $GOPATH.
 
 ## Installtion
 
@@ -19,6 +19,8 @@ e.g.
 
 ```
 $ go get -u github.com/golang/dep/cmd/dep
+$ echo $GOBIN, $GOPATH
+,
 $ gosh dep version
 dep:
  version     : devel
