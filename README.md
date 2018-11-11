@@ -5,7 +5,7 @@ Run $GOBIN/* easily even without $GOBIN and $GOPATH.
 ## Installtion
 
 ```
-$ brew tap takayoshiotake/gosh
+$ brew tap takayoshiotake/tap
 $ brew install gosh
 ```
 
