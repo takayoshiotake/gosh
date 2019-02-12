@@ -2,7 +2,7 @@
 
 Run $GOBIN/* easily even without $GOBIN and $GOPATH.
 
-## Installtion
+## Installation
 
 ```
 $ brew tap takayoshiotake/tap
