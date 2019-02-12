@@ -4,6 +4,8 @@ Run $GOBIN/* easily even without $GOBIN and $GOPATH.
 
 ## Installation
 
+https://github.com/takayoshiotake/homebrew-tap
+
 ```
 $ brew tap takayoshiotake/tap
 $ brew install gosh
